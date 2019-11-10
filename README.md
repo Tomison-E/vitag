@@ -4,7 +4,7 @@ A new Flutter project.
 
 
 ## Video Template Link
-visit https://firebasestorage.googleapis.com/v0/b/tomisin-edc61.appspot.com/o/raven.vlc?alt=media&token=1eb76e81-5ded-40ab-bbe8-efa5f02d0547 for a video sample
+visit https://firebasestorage.googleapis.com/v0/b/tomisin-edc61.appspot.com/o/raven.mov?alt=media&token=2332bcfc-cdcc-4840-a424-e1268cd691a9 for a video sample
 
 
 ## Screen 1
